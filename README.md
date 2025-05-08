@@ -3,8 +3,8 @@
 A responsive React app that tracks real-time cryptocurrency prices. The app simulates WebSocket updates for crypto prices and uses Redux Toolkit to manage the global state of the application. It displays a list of cryptocurrency assets like Bitcoin (BTC), Ethereum (ETH), and others with real-time updates every 1-2 seconds.
 
 ## 🚀 Demo
-
-- [Live Demo Link](#) (Provide a link to your deployed app on Netlify/Vercel)
+video:https://drive.google.com/file/d/175zyc6eg7yak1UT8mAs7j__6-iqwF8Q5/view?usp=drive_link
+- [Live Demo Link](#):https://crypto-price-tracker-liart.vercel.app/
 
 ## 🛠️ Tech Stack
 
